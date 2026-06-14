@@ -11,6 +11,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+Requires Python 3.9+.
+
 Test facility: CCN **686123** (Kendall Lakes Healthcare and Rehab Center, FL).
 
 ## How it works
